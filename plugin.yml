@@ -1,0 +1,7 @@
+name: CustomFishingRod
+main: Nathan45\Rod\Loader
+author: Nathan45
+version: 0.1
+api: 4.0.0
+description: "A Customizable Fishing Rod for PocketMine-MP servers."
+website: "https://github.com/Nathan459770"

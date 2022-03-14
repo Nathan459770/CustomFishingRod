@@ -1,0 +1,8 @@
+cooldown: 5 # In ticks, 1 second = 20 ticks
+durability: 355
+ThrowForce: 10
+gravity: 0.35
+
+kb_x: 0.4
+kb_y: 0.4
+kb_z: 0.4
