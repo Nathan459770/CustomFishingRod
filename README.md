@@ -19,7 +19,7 @@
 
 [ENG] Just download, add the plugin, configure your fishing rod in the config.yml and start your server.
  
-[FRA] If faut nstaller le plugin, ajouter celui-ci et configurer votre canne à pêche dans la config.yml. Ensuite redémarrer votre serveur.
+[FRA] If faut installer le plugin, ajouter celui-ci et configurer votre canne à pêche dans la config.yml. Ensuite redémarrer votre serveur.
 
 ---
 
